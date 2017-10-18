@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    vault:
+      host: 0.0.0.0
+      port: 8200
+      scheme: http
+      authentication: TOKEN
+      token: 5c12b6f6-d807-9e91-cadb-478da4aed16d
